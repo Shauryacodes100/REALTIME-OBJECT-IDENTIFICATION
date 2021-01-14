@@ -15,4 +15,4 @@ function start(){
 function moedlLoaded(){
     console.log("modelLoaded");
     status=true;
-}v
+}
